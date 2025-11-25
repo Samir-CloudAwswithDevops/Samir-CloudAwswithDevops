@@ -53,10 +53,11 @@
 ## 📝 NPTL Mark Sheets
 <p align="center">
   <!-- Mark Sheet 1 -->
-  <img width="1062" height="761" alt="nptel-1" src="https://github.com/user-attachments/assets/07cff4c2-d1a6-4938-96a7-c063f13d1e48" />
+  <img width="1062" height="761" alt="nptel-1" src="https://github.com/user-attachments/assets/07cff4c2-d1a6-4938-96a7-c063f13d1e48" />/raw/main/marksheet1.png" alt="NPTL Mark Sheet 1" width="400"/>
 
   <!-- Mark Sheet 2 -->
-  <img src="https://github.com/Samir-CloudAwswithDevops/raw/main/marksheet2.png" alt="NPTL Mark Sheet 2" width="400"/>
+  <img width="1067" height="757" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/7d2ff600-6c28-400e-bc09-ec06132c5659" />
+/raw/main/marksheet2.png" alt="NPTL Mark Sheet 2" width="400"/>
   <!-- Mark Sheet 3 -->
   <img src="https://github.com/Samir-CloudAwswithDevops/raw/main/marksheet3.png" alt="NPTL Mark Sheet 3" width="400"/>
 </p>
