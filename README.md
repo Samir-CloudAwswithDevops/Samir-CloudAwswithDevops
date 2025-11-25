@@ -59,7 +59,11 @@
   <img width="1067" height="757" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/7d2ff600-6c28-400e-bc09-ec06132c5659" />
 /raw/main/marksheet2.png" alt="NPTL Mark Sheet 2" width="400"/>
   <!-- Mark Sheet 3 -->
-  <img src="https://github.com/Samir-CloudAwswithDevops/raw/main/marksheet3.png" alt="NPTL Mark Sheet 3" width="400"/>
+  <img width="1058" height="756" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/61aae6e1-7f77-449d-ada0-c81956961786" />
+/raw/main/marksheet3.png" alt="NPTL Mark Sheet 3" width="400"/>
+  <!-- Mark Sheet 4 -->
+  <img width="1068" height="764" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/8793f4e2-a352-41aa-8df1-fa468ddebe50" />
+/raw/main/marksheet3.png" alt="NPTL Mark Sheet 4" width="400"/>
 </p>
 
 ---
