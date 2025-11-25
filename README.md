@@ -50,6 +50,18 @@
 
 ---
 
+## 📝 NPTL Mark Sheets
+<p align="center">
+  <!-- Mark Sheet 1 -->
+  <img src="https://nptel.ac.in/noc/E-Certificate/NPTEL24CS118S105500036404265593/raw/main/5efac541-8af6-4f7a-9b99-751c8b9dca9f.png" alt="NPTL Mark Sheet 1" width="400"/>
+  <!-- Mark Sheet 2 -->
+  <img src="https://github.com/Samir-CloudAwswithDevops/raw/main/marksheet2.png" alt="NPTL Mark Sheet 2" width="400"/>
+  <!-- Mark Sheet 3 -->
+  <img src="https://github.com/Samir-CloudAwswithDevops/raw/main/marksheet3.png" alt="NPTL Mark Sheet 3" width="400"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:samirkumargouda0563@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -58,5 +70,3 @@
   <a href="https://www.linkedin.com/in/SAMIR-GOUDA"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.naukri.com/mnjuser/profile/<SAMIRGOUDA>"><img src="https://img.shields.io/badge/Naukri-0073B1?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri Profile"/></a>
 </p>
-
----
