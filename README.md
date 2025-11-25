@@ -53,7 +53,8 @@
 ## 📝 NPTL Mark Sheets
 <p align="center">
   <!-- Mark Sheet 1 -->
-  <img src="https://nptel.ac.in/noc/E-Certificate/NPTEL24CS118S105500036404265593/raw/main/5efac541-8af6-4f7a-9b99-751c8b9dca9f.png" alt="NPTL Mark Sheet 1" width="400"/>
+  <img width="1062" height="761" alt="nptel-1" src="https://github.com/user-attachments/assets/07cff4c2-d1a6-4938-96a7-c063f13d1e48" />
+
   <!-- Mark Sheet 2 -->
   <img src="https://github.com/Samir-CloudAwswithDevops/raw/main/marksheet2.png" alt="NPTL Mark Sheet 2" width="400"/>
   <!-- Mark Sheet 3 -->
