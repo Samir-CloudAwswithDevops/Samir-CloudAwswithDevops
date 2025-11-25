@@ -56,6 +56,7 @@
   <a href="https://github.com/Samir-CloudAwswithDevops"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://gitlab.com/Samir-CloudAwswithDevops"><img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/SAMIR-GOUDA"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.naukri.com/mnjuser/profile/<SAMIRGOUDA>"><img src="https://img.shields.io/badge/Naukri-0073B1?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri Profile"/></a>
 </p>
 
 ---
